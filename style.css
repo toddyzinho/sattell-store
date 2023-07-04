@@ -24,3 +24,14 @@
 .roupa-imagem{
     width: 25%;
 }
+
+.roupa{background-image: linear-gradient(#121C34,#000000);
+    color: aliceblue;
+    display: flex;
+}
+
+.roupa-div-conteudo{
+    width: 35%;
+}
+
+.lista-texto { justify-items: center; }
